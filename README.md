@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dwwmeric
 - 👀 I’m interested in IT development
 - 🌱 I’m currently learning  PHP  and  JS   
-- 🧑🏻‍💻 I'm fill stack developer
+- 🧑🏻‍💻 I'm full stack developer
 - 
 
 <!---
