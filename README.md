@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Eric Peyrot</h1>
+<h1 align="center">Hi 👋, I'm Eric PEYROT</h1>
 <h3 align="center">DevOps Consultant</h3>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dwwmeric" alt="dwwmeric" /></a> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
