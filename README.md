@@ -1,5 +1,6 @@
 <h1 align="center" >Hi 👋, I'm Eric</h1>
-<p>Cloud DevOps Engineer</p>
+<h3>Cloud DevOps Engineer</h3>
+<p>With over 2 years of combined DevOps and Full-Stack development experience, I am a Cloud DevOps Consultant proficient in Docker, Kubernetes, and Linux. My role at Sogeti (AIRBUS project) involved optimizing CI/CD with Jenkins, incident management, and ensuring high availability. My Full-Stack expertise includes ReactJS, TypeScript, PHP (Symfony), and Drupal. These technical skills are reinforced by 10 years in the French Army, where I developed rigor, organization, adaptability, and a strong team spirit.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p align="center" ><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
